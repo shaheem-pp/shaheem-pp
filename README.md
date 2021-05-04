@@ -8,5 +8,5 @@
 - 🤔 I'm looking for help with making this readme more beautiful
 - 📫 How to reach me: https://linktr.ee/the.codeholic
 <br>
-<p align="center"><img align="center" stylr="margin:auto;" src="https://github-readme-stats.vercel.app/api?username=the-codeholic&theme=dark&show_icons=true&hide_border=true&show_icons=true" alt="My Github Stats"></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-codeholic&langs_count=5"></p>
+<p align="center"><img align="center" stylr="margin:auto;" src="https://github-readme-stats.vercel.app/api?username=the-codeholic&theme=dark&show_icons=true&hide_border=true&show_icons=true" alt="My Github Stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-codeholic&langs_count=5"></p>
+<p align="center"></p>
