@@ -1,4 +1,4 @@
-![counter](https://enb9oou2al2wd18.m.pipedream.net) https://github.com/anuraghazra/github-readme-stats 
+![counter](https://enb9oou2al2wd18.m.pipedream.net) {{ ACCOUNT_AGE }}
 ### Hi there 👋
 
 - 🔭 I’m currently working on JavaScript
