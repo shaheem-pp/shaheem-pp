@@ -1,5 +1,6 @@
-![counter](https://enb9oou2al2wd18.m.pipedream.net)
-### Hi there 👋
+<h1 align="center">Shaheem PP</h1>
+<h2>Student Developer</h2>
+<hr>
 
 - 🔭 I’m currently working on JavaScript
 - 🌱 Beginner in Android App Development(Kotlin)
