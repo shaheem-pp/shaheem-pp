@@ -1,5 +1,4 @@
-![counter](https://enb9oou2al2wd18.m.pipedream.net) [![Shaheem's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-codeholic)](https://github.com/anuraghazra/github-readme-stats)
-
+![counter](https://enb9oou2al2wd18.m.pipedream.net) https://github.com/anuraghazra/github-readme-stats 
 ### Hi there 👋
 
 - 🔭 I’m currently working on JavaScript
