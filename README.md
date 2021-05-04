@@ -1,5 +1,5 @@
 <h1 align="center">Shaheem PP</h1>
-<h2>Student Developer</h2>
+<p align="center">Student Developer</p>
 <hr>
 
 - 🔭 I’m currently working on JavaScript
