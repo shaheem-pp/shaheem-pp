@@ -1,6 +1,6 @@
 <p align="center"><img height="300px" src="https://avatars.githubusercontent.com/u/46243023?s=400&u=74eb3779f7eebd805b2271e207363cc883f1e856&v=4"></p>
 <h1 align="center">Shaheem PP</h1>
-<p align="center">Student Developer</p>
+<p align="center">Lead @ TInkerHub SIAS | CMO @ Pygrammers | Microsoft Learn Student Ambassador | Student Developer</p>
 <p align="center"><a><img src="https://komarev.com/ghpvc/?username=the-codeholic&color=blueviolet"></a></p>
 <hr>
 
