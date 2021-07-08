@@ -13,7 +13,9 @@
 <p align="center"><img align="center" stylr="margin:auto;" src="https://github-readme-stats.vercel.app/api?username=the-codeholic&theme=tokyonight&show_icons=true&hide_border=true&show_icons=true" alt="My Github Stats"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-codeholic&langs_count=10&theme=tokyonight"></p>
 -->
+<!--
 <h3>Hello World</h3>
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+-->
