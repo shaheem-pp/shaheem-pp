@@ -22,3 +22,6 @@
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=the-codeholic&theme=city-lights)](https://git.io/streak-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-codeholic&theme=city-lights)](https://github.com/anuraghazra/github-readme-stats)
+
