@@ -15,7 +15,7 @@ I am a student developer, I know a little bit of Django🌐 and Android Developm
 - 🔭 &nbsp; I’m currently working on **College Project**
 - 🌱 &nbsp; I’m currently learning Django 
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/the-codeholic/)
-- 📝 &nbsp; Checkout my [resume](https://shaheem-pp.web.app/Assets/Others/Resume.pdf)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1EoB2CRpQtg81l-IXXB6CWQrdNWYgVGcU/view?usp=drivesdk)
 
 <br>
 
