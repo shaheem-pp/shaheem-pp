@@ -53,3 +53,4 @@ I am a student developer, I know a little bit of Django🌐 and Android Developm
 <a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
 <a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
  -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-codeholic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
