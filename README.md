@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Django and iOS Development**
 
-- 📝 I regularly write articles on [https://the-codeholic.medium.com/](https://the-codeholic.medium.com/)
+- 📝 I regularly write articles on [Medium](https://the-codeholic.medium.com/)
 
-- 📫 How to reach me **shanofficial2000@gmail.com**
+- 📫 Reach out to me through [email](mailto:shanofficial2000@gmail.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KNO7ezCKBsoaYZqyduVARzWdrZtyx2br/view](https://drive.google.com/file/d/1KNO7ezCKBsoaYZqyduVARzWdrZtyx2br/view)
+- 📄 How to knnow about my experiences? [See my Resume](https://drive.google.com/file/d/1KNO7ezCKBsoaYZqyduVARzWdrZtyx2br/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
