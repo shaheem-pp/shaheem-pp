@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaheem PP</h1>
-<h3 align="center">A passionate python developer from India</h3>
+<h3 align="center">A Student Developer</h3>
 
 <br>
 
@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Swift & iOS Development**
 
-- 📝 I regularly write articles on [Medium](https://the-codeholic.medium.com/)
+- 📝 I write articles on [Medium](https://medium.com/@shaheem-pp)
 
 - 📫 Reach out to me through [email](mailto:shanofficial2000@gmail.com)
 
-- 📄 How to knnow about my experiences? [See my Resume](https://drive.google.com/file/d/1KNO7ezCKBsoaYZqyduVARzWdrZtyx2br/view)
+- 📄 How to knnow about my experiences? [See my Resume](https://shaheem-pp.web.app/Assets/Others/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
