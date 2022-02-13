@@ -3,15 +3,15 @@
 
 <br>
 
-- 🔭 I’m currently working on **a E-Commerce site as part of college project**
+- 🔭 I’m currently working on **a E-Commerce site as part of college project** - [Project Repo](https://github.com/shaheem-pp/Explore-Bikes)
 
-- 🌱 I’m currently learning **Swift & iOS Development**
+- 🌱 I’m currently learning **Swift & iOS Development** - [Repository](https://github.com/shaheem-pp/Swift-Practice)
 
 - 📝 I write articles on [Medium](https://medium.com/@shaheem-pp)
 
 - 📫 Reach out to me through [email](mailto:shanofficial2000@gmail.com)
 
-- 📄 How to knnow about my experiences? [See my Resume](https://shaheem-pp.web.app/Assets/Others/resume.pdf)
+- 📄 How to know about my experiences? [See my Resume](https://shaheem-pp.web.app/Assets/Others/resume.pdf)
 
 - 🌏 Here is my [Personal Site](https://shaheem-pp.web.app)
 
