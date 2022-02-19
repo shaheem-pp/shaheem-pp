@@ -5,19 +5,19 @@
 
 <br>
 
-- 🔭 I’m currently working on **a E-Commerce site as part of college project** - [Project Repo](https://github.com/shaheem-pp/Explore-Bikes)
+🔭 I’m currently working on **a E-Commerce site as part of college project** - [Project Repo](https://github.com/shaheem-pp/Explore-Bikes)
 
-- 🌱 I’m currently learning **Swift & iOS Development** - [Repository](https://github.com/shaheem-pp/Swift-Practice)
+🌱 I’m currently learning **Swift & iOS Development** - [Repository](https://github.com/shaheem-pp/Swift-Practice)
 
-- 📝 I write articles on [Medium](https://medium.com/@shaheem-pp)
+📝 I write articles on [Medium](https://medium.com/@shaheem-pp)
 
-- 📫 Reach out to me through [email](mailto:shanofficial2000@gmail.com)
+📫 Reach out to me through [email](mailto:shanofficial2000@gmail.com)
 
-- 📄 How to know about my experiences? [See my Resume](https://shaheem-pp.web.app/Assets/Others/resume.pdf)
+📄 How to know about my experiences? [See my Resume](https://shaheem-pp.web.app/Assets/Others/resume.pdf)
 
-- 🌏 Here is my [Personal Site](https://shaheem-pp.web.app)
+🌏 Here is my [Personal Site](https://shaheem-pp.web.app)
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/shaheemshanpp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shaheemshanpp" height="30" width="40" /></a>
 <a href="https://twitter.com/the_codeholic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_codeholic" height="30" width="40" /></a>
@@ -37,3 +37,4 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=shaheem-pp&show_icons=true&locale=en" alt="shaheem-pp" /></p>
 <br>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shaheem-pp" alt="shaheem-pp" /></p>
+ -->
