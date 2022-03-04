@@ -7,6 +7,8 @@
 
 🔭 I’m currently working on **a E-Commerce site as part of college project** - [Project Repo](https://github.com/shaheem-pp/Explore-Bikes)
 
+👨🏻‍💻 Also working on a **Personal Website** in free time **using Django** - [Project Repo](https://github.com/shaheem-pp/DevFolio)
+
 🌱 I’m currently learning **Swift & iOS Development** - [Repository](https://github.com/shaheem-pp/Swift-Practice)
 
 📝 I write articles on [Medium](https://medium.com/@shaheem-pp)
