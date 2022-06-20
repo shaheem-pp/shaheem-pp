@@ -19,12 +19,20 @@
 
 🌏 Here is my [Personal Site](https://shaheem-pp.web.app)
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheem-pp&layout=compact&langs_count=6&hide=javascript,java,C)](https://github.com/anuraghazra/github-readme-stats" alt="shaheem-pp" />
-</p>
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=shaheem-pp&show_icons=true&locale=en" alt="shaheem-pp" />
-</p>
-<p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaheem-pp" alt="shaheem-pp" />
-</p>
+<br>
+<hr>
+<br>
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheem-pp&layout=compact&langs_count=6&hide=javascript,java,C)](https://github.com/anuraghazra/github-readme-stats" alt="shaheem-pp" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=shaheem-pp&show_icons=true&locale=en"  alt="shaheem-pp" />
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaheem-pp" alt="shaheem-pp" />
+</td>
+</tr>
+</table>
