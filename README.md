@@ -23,6 +23,8 @@
 <hr>
 <br>
 
+<h1 align="center">Stats!</h1>
+
 <table>
 <tr>
 <td>
