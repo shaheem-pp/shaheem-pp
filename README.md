@@ -1,16 +1,17 @@
 # Hi, I'm Shaheem PP.
 
 
-## A Student Developer & Community Evangelist from 🇮🇳
-🔭 I’m currently working on iOS App development [Repository](https://github.com/shaheem-pp/100-Days-of-Swift)
+### A Student Developer & Community Evangelist from 🇮🇳
 
-📝 I write articles on [Medium](https://medium.com/@shaheem-pp)
+- 🔭 I’m currently working on iOS App development [Repository](https://github.com/shaheem-pp/100-Days-of-Swift)
 
-📫 Reach out to me through [email](mailto:shanofficial2000@gmail.com)
+- 📝 I write articles on [Medium](https://medium.com/@shaheem-pp)
 
-📄 How to know about my experiences? [See my Resume](https://shaheem-pp.web.app/Assets/Others/resume.pdf)
+- 📫 Reach out to me through [email](mailto:shanofficial2000@gmail.com)
 
-🌏 Here is my [Personal Site](https://shaheem-pp.web.app)
+- 📄 How to know about my experiences? [See my Resume](https://shaheem-pp.web.app/Assets/Others/resume.pdf)
+
+- 🌏 Here is my [Personal Site](https://shaheem-pp.web.app)
 
 
 
