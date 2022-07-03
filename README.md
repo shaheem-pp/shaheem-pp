@@ -16,7 +16,7 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaheem-pp&layout=compact&langs_count=6&hide=javascript,java,C)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaheem-pp&layout=compact&langs_count=6)
 
 ![](https://github-readme-stats.vercel.app/api?username=shaheem-pp&show_icons=true&locale=en)
 
