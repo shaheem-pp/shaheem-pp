@@ -3,7 +3,9 @@
 
 ### A Student Developer & Community Evangelist from 🇮🇳
 
-- 🔭 I’m currently working on iOS App development [Repository](https://github.com/shaheem-pp/100-Days-of-Swift)
+- 🔭 I’m currently Learning on iOS App development [Repository](https://github.com/shaheem-pp/100-Days-of-Swift)
+
+- 👨‍💻 I'm currently working on a **Django Project** [Repository](https://github.com/shaheem-pp/share_io)
 
 - 📝 I write articles on [Medium](https://medium.com/@shaheem-pp)
 
