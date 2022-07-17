@@ -3,7 +3,7 @@
 
 ### A Student Developer & Community Evangelist from 🇮🇳
 
-- 🔭 I’m currently Learning on iOS App development [Repository](https://github.com/shaheem-pp/100-Days-of-Swift)
+- 🔭 I’m currently Learning on Django Framework
 
 - 👨‍💻 I'm currently working on a **Django Project** [Repository](https://github.com/shaheem-pp/share_io)
 
@@ -15,10 +15,11 @@
 
 - 🌏 Here is my [Personal Site](https://shaheem-pp.web.app)
 
+-----
 
+## Stats📊
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaheem-pp&layout=compact&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaheem-pp&layout=compact&langs_count=10)
 
 ![](https://github-readme-stats.vercel.app/api?username=shaheem-pp&show_icons=true&locale=en)
 
