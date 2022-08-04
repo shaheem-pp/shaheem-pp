@@ -1,6 +1,6 @@
 # Hi, I'm Shaheem PP.
 
-### Code👨‍💻 & Community👥
+### Code, Comunity & Content :)
 
 - 👨‍💻 I'm currently working on a **Django Project** [Repository](https://github.com/shaheem-pp/share_io)
 
