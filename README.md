@@ -1,9 +1,7 @@
 # Hi, I'm Shaheem PP.
 
 
-### A Student Developer & Community Evangelist from 🇮🇳
-
-- 🔭 I’m currently Learning on Django Framework
+### Developer, Community Evangelist & a Content Curator
 
 - 👨‍💻 I'm currently working on a **Django Project** [Repository](https://github.com/shaheem-pp/share_io)
 
