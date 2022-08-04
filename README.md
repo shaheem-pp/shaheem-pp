@@ -1,7 +1,7 @@
 # Hi, I'm Shaheem PP.
 
 
-### Developer, Community Evangelist & a Content Curator
+### Developer, Community Evangelist & Content Curator
 
 - 👨‍💻 I'm currently working on a **Django Project** [Repository](https://github.com/shaheem-pp/share_io)
 
