@@ -1,11 +1,12 @@
 # Hi, I'm Shaheem PP.
 
-
-### Developer, Community Evangelist & Content Curator
+### Code👨‍💻 & Community👥
 
 - 👨‍💻 I'm currently working on a **Django Project** [Repository](https://github.com/shaheem-pp/share_io)
 
 - 📝 I write articles on [Medium](https://medium.com/@shaheem-pp)
+
+- 🎥 I create videos on [YouTube](https://www.youtube.com/c/shaheempp)
 
 - 📫 Reach out to me through [email](mailto:shanofficial2000@gmail.com)
 
