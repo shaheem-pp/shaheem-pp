@@ -2,7 +2,7 @@
 
 ### Code, Community & Content :)
 
-- 👨‍💻 I'm currently working on a **Django Project** [Repository](https://github.com/shaheem-pp/share_io)
+- 👨‍💻 I'm a Dev.
 
 - 📝 I write articles on [Medium](https://medium.com/@shaheem-pp)
 
