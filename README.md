@@ -1,25 +1,61 @@
-# Hi, I'm Shaheem PP.
+### Hi there 👋 
 
-### Code, Community & Content :)
+![](https://komarev.com/ghpvc/?username=shaheem-pp-11&color=010040&style=flat-square)<br>
+<img src='https://img.shields.io/badge/iOS%20App%20Development-UIKit-orange'>
+<img src='https://img.shields.io/badge/Python-Django-brightgreen'>
 
-- 👨‍💻 I'm a Dev.
 
-- 📝 I write articles on [Medium](https://medium.com/@shaheem-pp)
+I am **Shaheem PP**, an BCA Graduate. I love to work with `Swift` and `Python`. I’m currently looking through `iOS Development`
 
-- 🎥 I create videos on [YouTube](https://www.youtube.com/c/shaheempp)
+- I'm interested in `iOS App Development`
+- Ask me about `Swift` and `Python`.
+- Currently working on my mini project involving `Django`
 
-- 📫 Reach out to me through [email](mailto:shanofficial2000@gmail.com)
 
-- 📄 How to know about my experiences? [See my Resume](https://shaheem-pp.web.app/Assets/Others/resume.pdf)
+<h2 align="center"> 👨‍💻 Languages and Tools:</h2>
+<br />
 
-- 🌏 Here is my [Personal Site](https://shaheem-pp.web.app)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=swift,python,django,vscode,html,css,bootstrap,javascript,jquery" />
+  </a>
+</p>
 
------
+<br />
+<div align = "center">
 
-## Stats📊
+![Shaheem's Github Status](https://github-readme-stats.vercel.app/api?username=shaheem-pp&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaheem-pp&layout=compact&langs_count=8)
+<hr>
+    
+<br></br>
 
-![](https://github-readme-stats.vercel.app/api?username=shaheem-pp&show_icons=true&locale=en)
+[![Shaheem's github activity graph](https://activity-graph.herokuapp.com/graph?username=shaheem-pp&theme=xcode)](https://github.com/shaheem-pp)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=shaheem-pp)
+
+</div>    
+<h1 align="center">    
+✨ Connect with me ✨
+
+<p align="center">
+  <br/>
+  <a href="https://www.linkedin.com/in/shaheem-pp/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="mailto:shanofficial2000@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=flat-square&logo=gmail&logoColor=white">  
+  </a>
+
+
+  <br/>
+ 
+  <a href="https://www.instagram.com/the.codeholic/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
+  </a>
+
+  <a href="https://twitter.com/https://twitter.com/The_Codeholic">
+    <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
+  </a>
+</p>
+</h1>
