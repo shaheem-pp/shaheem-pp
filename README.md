@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-![](https://komarev.com/ghpvc/?username=shaheem-pp-11&color=010040&style=flat-square)<br>
+![](https://komarev.com/ghpvc/?username=shaheem-pp-11&color=010040&style=flat-square)
 <img src='https://img.shields.io/badge/iOS%20App%20Development-UIKit-orange'>
 <img src='https://img.shields.io/badge/Python-Django-brightgreen'>
 
