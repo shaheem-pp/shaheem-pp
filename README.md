@@ -5,8 +5,6 @@
 <img src='https://img.shields.io/badge/Python-Django-brightgreen'>
 
 
-I am **Shaheem PP**. I love to work on `Swift` and `Python`. I’m currently learning `iOS Development`
-
 - I'm interested in `iOS App Development`
 - Ask me about `Swift` and `Python`.
 - Currently working on my mini project involving `Django`
