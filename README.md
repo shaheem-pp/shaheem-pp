@@ -1,8 +1,10 @@
-### Hi there 👋 , I'm Shaheem PP.
+## Hi there 👋 , I'm Shaheem PP.
 
-![](https://komarev.com/ghpvc/?username=shaheem-pp-11&color=010040&style=flat-square)
+<p align="center">
+<img src='https://komarev.com/ghpvc/?username=shaheem-pp-11&color=010040&style=flat-square'>
 <img src='https://img.shields.io/badge/iOS%20App%20Development-UIKit-orange'>
 <img src='https://img.shields.io/badge/Python-Django-brightgreen'>
+</p>
 
 
 - I'm interested in `iOS App Development`
