@@ -9,7 +9,7 @@
 
 - I'm interested in `iOS App Development`
 - Ask me about `Swift` and `Python`.
-- Currently working on my mini project involving `Django`
+- Currently working as Backend Developer
 
 
 <h2 align="center"> 👨‍💻 Languages and Tools:</h2>
