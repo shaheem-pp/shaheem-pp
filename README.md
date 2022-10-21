@@ -59,3 +59,6 @@
   </a>
 </p>
 </h1>
+
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="60" /><b>Git profile Trophies</b></h4></p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=shaheem-pp&theme=gruvbox" />
