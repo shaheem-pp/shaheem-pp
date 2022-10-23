@@ -7,7 +7,7 @@
 </p>
 
 
-- I'm interested in `iOS App Development`
+- I'm interested in `iOS App Development` and `Django`.
 - Ask me about `Swift` and `Python`.
 - Currently working as Backend Developer
 
@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,python,django,vscode,html,css,bootstrap,javascript,jquery" />
+    <img src="https://skillicons.dev/icons?i=swift,python,django,html,css,bootstrap,jquery" />
   </a>
 </p>
 
