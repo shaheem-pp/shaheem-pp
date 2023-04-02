@@ -2,7 +2,7 @@
 - I'm interested in `iOS App Development` and `Django`.
 - Ask me about `Swift` and `Python`.
 - Currently working as Backend Developer @Cynbus.
-- Working on a website for an Orphanage.
+- Working on a side project, website for an Orphanage.
 
 
 
