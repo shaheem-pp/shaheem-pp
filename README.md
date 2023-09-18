@@ -1,7 +1,7 @@
 # 💫 About Me:
 - I'm interested in `iOS App Development` and `Django`.
 - Ask me about `Swift` and `Python`.
-- Currently working as Backend Developer @Cynbus.
+- Currently working as Backend Developer @Agua India.
 - Working on a side project, website for an Orphanage.
 
 
