@@ -1,8 +1,9 @@
 # 💫 About Me:
-- I'm interested in `iOS App Development` and `Django`.
-- Ask me about `Swift` and `Python`.
-- Currently working as Backend Developer @Agua India.
-- Working on a side project, website for an Orphanage.
+- 📱 Interested in `iOS App Development` and `Django`.
+- 🚀 Ask me about `Swift` and `Python`.
+- 💻 Currently working as Backend Developer @Agua India.
+- 🌟 Working on a side project, website for an Orphanage.
+- 📚 Learning more about iOS Development.
 
 
 
