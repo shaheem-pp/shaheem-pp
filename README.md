@@ -34,7 +34,7 @@ I'm a Backend Developer with over 2 years of experience specializing in web deve
 - Co-Founder, Techsias
 
 ## 📫 Get in Touch
-- Links: [links-shaheem.netlify.app](links-shaheem.netlify.app)
+- Links: [links-shaheem.netlify.app](https://links-shaheem.netlify.app/)
 
 ---
 
