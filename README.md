@@ -34,9 +34,7 @@ I'm a Backend Developer with over 2 years of experience specializing in web deve
 - Co-Founder, Techsias
 
 ## 📫 Get in Touch
-- GitHub: @[shaheem-pp](https://github.com/shaheem-pp)
-- LinkedIn: [Link to LinkedIn](#)
-- Email: [Your Email](mailto:your.email@example.com)
+- Links: [links-shaheem.netlify.app](links-shaheem.netlify.app)
 
 ---
 
