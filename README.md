@@ -1,23 +1,49 @@
-# 💫 About Me:
-- 📱 Learning `iOS App Development` for my `Django` Backend.
-- 🚀 Ask me about `Swift` and `Python`.
-- 💻 Currently working as Backend Developer @Agua India.
-- 🌟 Working on a side project, website for an Orphanage.
-- 📚 Learning more about iOS Development.
+# Hello, I'm Shaheem PP 👋
 
+## 🚀 About Me
+I'm a Backend Developer with over 2 years of experience specializing in web development, particularly with Python, Django, and REST APIs. I'm passionate about using my skills to solve complex problems, improve system efficiencies, and drive user engagement. Currently, I'm enhancing the digital landscape of Al-Hudha Orphanage with Django-based solutions and have a history of impactful projects with organizations like Agua India and Cynbus.
 
+## 💼 Experience
+- **Django Developer**, Al-Hudha Orphanage (Feb 2024 - Present)
+- **Backend Developer**, Agua India (Sep 2023 - Jan 2024)
+- **Junior Backend Developer**, Cynbus (Aug 2022 - Aug 2023)
+- **Campus Community Manager**, TinkerHub Foundation (Jun 2021 - Jan 2022)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the.codeholic) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaheem-pp) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shaheem-pp) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/The_Codeholic) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ShaheemPP) 
+## 🎓 Education
+- **Bachelor of Computer Application**, Safi Institute of Advanced Study (University of Calicut), 2019 - 2022
+- **Class 12 (Computer Science)**, Umbichy Hajee Higher Secondary School (Kerala Board), 2017 - 2019
 
+## 🛠 Skills
+- Programming Languages: Python, Swift, JavaScript
+- Frameworks & Technologies: Django, SwiftUI, HTML, CSS, Bootstrap, jQuery
+- Tools & Platforms: PyCharm, Xcode, VS Code, Postman, Figma, DigitalOcean
+- Database: PostgreSQL
+- Others: REST APIs, Cloud Deployment (AWS, DigitalOcean)
 
+## 🌟 Projects
+- **Food For All**: A Django Rest Framework and Next.js project to manage surplus food. [View Repo](https://github.com/AkshayBenny/food-surplus-detection)
+- **Explore Bikes**: An E-Commerce platform built with Django for booking and viewing vehicles. [View Repo](https://github.com/shaheem-pp/Explore-Bikes)
+- **Shareio**: A blogging app developed with Django, featuring CRUD operations and blog customization.
+- **Daybook**: A diary writing website with Django for creating and managing diary entries.
+- **LittleLemon Reservation App**: A SwiftUI app for reserving seats in a restaurant.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+## 🏆 Achievements
+- Marketing and Outreach Co-ordinator, Pygrammers
+- Microsoft Learn Student Ambassador
+- Founder, TinkerHub SIAS
+- Co-Founder, Techsias
 
+## 📫 Get in Touch
+- GitHub: @[shaheem-pp](https://github.com/shaheem-pp)
+- LinkedIn: [Link to LinkedIn](#)
+- Email: [Your Email](mailto:your.email@example.com)
+
+---
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=shaheem-pp&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)]()
+
 [![GitHub commit activity](https://github-readme-streak-stats.herokuapp.com/?user=shaheem-pp&theme=blue-green&hide_border=false)]()
+
 [![GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaheem-pp&hide=javascript,scss,css,html&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)]()
 
 
@@ -34,3 +60,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=shaheem-pp&icon=5&color=3)](https://visitcount.itsvg.in)
 
+
+
+© 2024 Shaheem PP. All Rights Reserved.
