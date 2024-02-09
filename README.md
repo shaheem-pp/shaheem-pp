@@ -47,7 +47,7 @@ I'm Shaheem, a passionate Backend Developer with over 2 years of experience spec
 ## 📫 Get in Touch
 - **GitHub**: [@shaheem-pp](https://github.com/shaheem-pp)
 - **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/shaheem-pp/)
-- **Email**: [Your Email](mailto:shanofficial2000@gmail.com)
+- **Email**: [shanofficial2000@gmail.com](mailto:shanofficial2000@gmail.com)
 - **Portfolio**: [shaheem.netlify.app](https://shaheem.netlify.app/)
 
 ---
