@@ -28,3 +28,5 @@ I'm a passionate web developer from the beautiful state of Kerala, India, specia
 
 ### Connect With Me 🌎
 Check out my projects and connect with me through [my personal link hub](https://links-shaheem.netlify.app/).
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shaheem-pp&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
