@@ -29,4 +29,19 @@ I'm a passionate web developer from the beautiful state of Kerala, India, specia
 ### Connect With Me 🌎
 Check out my projects and connect with me through [my personal link hub](https://links-shaheem.netlify.app/).
 
+[![GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaheem-pp&hide=javascript,scss,css,html&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)]()
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shaheem-pp&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shaheem-pp&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)]()
+
+[![GitHub commit activity](https://github-readme-streak-stats.herokuapp.com/?user=shaheem-pp&theme=blue-green&hide_border=false)]()
+
+![](https://github-profile-trophy.vercel.app/?username=shaheem-pp&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=shaheem-pp&icon=5&color=3)](https://visitcount.itsvg.in)
+
