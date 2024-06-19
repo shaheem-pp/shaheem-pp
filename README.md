@@ -1,33 +1,81 @@
-### 👋 Hi there! I'm Shaheem
+<h1 align="center">Hi, I'm Shaheem👋</h1>
+<h3 align="center">A passionate web developer and international student based in Toronto</h3>
 
-I'm a passionate web developer from the beautiful state of Kerala, India, specializing in backend development with a keen interest in the Django Framework. With 1.6 years of experience under my belt, I've honed my skills in creating dynamic and user-friendly web applications. My expertise lies in bridging the gap between backend logic and frontend flair, using technologies like HTML, CSS, and Bootstrap to bring ideas to life.
+<p align="center">
+<!--   <a href="mailto:shaheempp@example.com"><img src="https://img.shields.io/badge/Email-shaheempp%40example.com-red"></a> -->
+  <a href="https://www.linkedin.com/in/shaheempp"><img src="https://img.shields.io/badge/LinkedIn-Shaheem%20PP-blue"></a>
+  <a href="https://shaheem.netlify.app"><img src="https://img.shields.io/badge/Personal%20Website-shaheem--pp-lightgrey"></a>
+</p>
 
-#### 🚀 About Me
-- 🌐 Web Developer focusing on **Backend Development**
-- 📚 Graduate from **Safi Institute of Advanced Study, Malappuram, Kerala**
-- 🎓 Holds a degree from **Calicut University** with a CGPA of **6.2**
-- 💼 **1.6 years of experience** in developing robust Content Management Systems
-- 🌟 Skilled in **Django, HTML, CSS, Bootstrap**, and more
+---
 
-#### 💻 Professional Experience
-- Contributed to a startup, developing a system now serving **20,000+ users** across Kochi, Bengaluru, Hyderabad, and Chennai
-- Enhanced dashboard processes, **boosting team productivity by 40%**
+### About Me
 
-#### 🎓 Educational Journey
-- Covered **Python Programming, Web Development, Database Management Systems, Data Structures and Algorithms, Machine Learning, and Networking**
-- Active member of **TinkerHub Foundation** and **Microsoft Learn Student Ambassador**
-- Co-founder of a **tech community** in college, volunteer with **Pygrammers**
+I'm Shaheem, a dedicated web developer specializing in backend development with 1.6 years of experience. I excel in the Django Framework and have a strong command of front-end technologies like HTML, CSS, and Bootstrap. Currently, I'm pursuing a Post Graduation in Full Stack Software Development at Lambton College, Toronto. I hold a bachelor's degree from Calicut University, which equipped me with expertise in Data Structures, Algorithms, and Web Development.
 
-#### 🌱 Personal Projects and Learning
-- Currently diving into **iOS Application Development** in my free time
-- Leading a digital transition for **Al-Hudha Orphanage**, developing a dashboard to digitize 25+ years of student data
+### Experience
 
-#### 🤝 Community Engagement
-- Passionate about **giving back to the community**
-- Working on a project for **Al-Hudha Orphanage** to enhance staff productivity and student-sponsor connections
+**Backend Developer - Agua India**  
+*September 2023 - January 2024*  
+- Developed the entire backend system for a user base of 20,000+ across multiple cities.
+- Engineered tools for user and partner apps, improving order processing and delivery workflows.
+- Designed a user-friendly dashboard, enhancing sales productivity by 40%.
+- Ensured 99% system uptime and seamless user experience.
 
-### Connect With Me 🌎
-Check out my projects and connect with me through [my personal link hub](https://links-shaheem.netlify.app/).
+**Junior Backend Developer - Cynbus**  
+*August 2022 - August 2023*  
+- Developed logical and database components using Django and REST API.
+- Deployed products on cloud platforms like AWS and DigitalOcean.
+- Created CMS using HTML, CSS, Bootstrap, jQuery, and AJAX.
+- Contributed to software used by 13,000+ users across Kerala.
+
+**Campus Community Manager - TinkerHub Foundation**  
+*June 2021 - January 2022*  
+- Onboarded 15+ campuses, fostering a vibrant tech community across Kerala.
+- Managed 60+ campuses, organized activities, and increased student participation by 40%.
+- Mentored over 100 students, resulting in a 25% increase in student-led tech initiatives.
+
+### Projects
+
+- **[Food For All](https://github.com/AkshayBenny/food-surplus-detection):** Developed a web application to combat food waste and hunger using Django Rest Framework and Next.js.
+- **[Explore Bikes](https://github.com/shaheem-pp/Explore-Bikes):** Constructed an E-Commerce platform for booking vehicles and services using Django Framework.
+- **Shareio:** A blog writing app with features for creating, updating, and deleting blogs using Django Framework, HTML, CSS, JS, and Bootstrap.
+- **Daybook:** A personalized diary writing website developed with Django Framework and Python.
+- **LittleLemon Reservation App:** A SwiftUI app for reserving seats in a hypothetical restaurant called Little Lemon.
+- **100 Days of Swift:** Completed 50 days of building mini apps using UIKit and integrating APIs as part of the challenge.
+
+### Achievements
+
+- **Django Developer - Al-Hudha Orphanage:** Led the digital transformation by developing a Django-based web solution to manage over 20 years of student data.
+- **Marketing and Outreach Coordinator - Pygrammers:** Spearheaded community outreach and managed social media presence, enhancing member engagement.
+- **Microsoft Learn Student Ambassador:** Organized events and facilitated knowledge sharing among peers.
+- **Founder - TinkerHub SIAS:** Established and led a tech community, guiding students in skill enhancement and career support.
+- **Co-Founder - Techsias:** Managed diverse teams and orchestrated impactful events like bootcamps and hackathons.
+
+### Skills
+
+- **Languages:** Python, Swift, JavaScript, HTML, CSS
+- **Frameworks:** Django, Django Rest Framework, Bootstrap, SwiftUI
+- **Tools:** PostgreSQL, PyCharm, Xcode, VS Code, Postman, Figma, DigitalOcean
+
+### Education
+
+- **Full Stack Software Development - Lambton College**  
+  *2024 - Present*
+  
+- **Bachelor of Computer Application - Safi Institute of Advanced Study (University of Calicut)**  
+  *2019 - 2022*  
+  CGPA: 6.2
+
+- **Class 12 (Computer Science) - Umbichy Hajee Higher Secondary School (Kerala Board)**  
+  *2017 - 2019*  
+  Percentage: 85%
+
+### Contact Me
+
+Feel free to reach out to me for collaborations, project discussions, or any exciting opportunities!
+
+------
 
 [![GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaheem-pp&hide=javascript,scss,css,html&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)]()
 
