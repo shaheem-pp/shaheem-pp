@@ -3,7 +3,7 @@
 
 <p align="center">
 <!--   <a href="mailto:shaheempp@example.com"><img src="https://img.shields.io/badge/Email-shaheempp%40example.com-red"></a> -->
-  <a href="https://www.linkedin.com/in/shaheempp"><img src="https://img.shields.io/badge/LinkedIn-Shaheem%20PP-blue"></a>
+  <a href="https://www.linkedin.com/in/shaheem-pp/"><img src="https://img.shields.io/badge/LinkedIn-Shaheem%20PP-blue"></a>
   <a href="https://shaheem.netlify.app"><img src="https://img.shields.io/badge/Personal%20Website-shaheem--pp-lightgrey"></a>
 </p>
 
