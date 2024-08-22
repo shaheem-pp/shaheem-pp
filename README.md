@@ -77,7 +77,7 @@ Feel free to reach out to me for collaborations, project discussions, or any exc
 
 ------
 
-[![GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaheem-pp&hide=javascript,scss,css,html&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)]()
+[![GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaheem-pp&hide=javascript,scss,css,HTML,less&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact&langs_count=6&hide_progress=true)]()
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shaheem-pp&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
