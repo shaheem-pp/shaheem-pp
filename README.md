@@ -49,7 +49,7 @@
 
 <p align="center">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=shaheem-pp&show_icons=true&theme=blue-green" />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=shaheem-pp&show_icons=true&locale=en&layout=compact&theme=radical&card_width=320" alt="shaheem-pp" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=shaheem-pp&show_icons=true&locale=en&layout=compact&theme=radical" alt="shaheem-pp" />
   <img src="https://github-profile-trophy.vercel.app/?username=shaheem-pp&theme=matrix" />
   
 </p>
