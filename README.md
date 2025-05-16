@@ -1,106 +1,113 @@
-<h1 align="center">Hey there, I'm Shaheem 👋</h1>
-<h3 align="center">Backend-leaning Full Stack Dev | Django • React • Cloud | Based in Toronto 🍁</h3>
+<h1 align="center">Hi, I'm Shaheem 👋</h1>
+<h3 align="center">Backend-Focused Full Stack Developer · Python · FastAPI · React · AI · Cloud · Based in Toronto 🇨🇦</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shaheem-pp/"><img src="https://img.shields.io/badge/LinkedIn-Shaheem%20PP-blue"></a>
-  <a href="https://shaheem.dev"><img src="https://img.shields.io/badge/Portfolio-shaheem.dev-lightgrey"></a>
-  <img src="https://komarev.com/ghpvc/?username=shaheem-pp&label=Profile%20views&color=0e75b6&style=flat" alt="shaheem-pp" />
-</p>
-
-<p align="center">
-  <a href="https://dev.to/shaheem_dev"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" /></a>
-  <a href="https://twitter.com/the_codeholic"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-  <a href="https://instagram.com/the.codeholic"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-  <a href="https://medium.com/@shaheem-pp"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/shanofficial2000"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/shaheem-pp/"><img src="https://img.shields.io/badge/LinkedIn-Shaheem%20PP-blue?style=flat-square"></a>
+  <a href="https://shaheem.dev"><img src="https://img.shields.io/badge/Portfolio-shaheem.dev-0ea5e9?style=flat-square"></a>
+  <img src="https://komarev.com/ghpvc/?username=shaheem-pp&label=Profile%20views&color=0e75b6&style=flat-square" alt="shaheem-pp" />
 </p>
 
 ---
 
-### 👋 A bit about me
+### 👋 About Me
 
-Hey! I’m Shaheem — a full stack dev with a backend soul. I enjoy building systems that are not just functional, but actually helpful. Whether it’s optimizing delivery routes, building dashboards for 20k+ users, or whipping up something cool in a hackathon — I love solving meaningful problems.
+I’m Shaheem — a backend-leaning full stack developer with a knack for building systems that are scalable, maintainable, and actually useful.
 
-- 🧠 Currently working remotely as a **Product Engineer @ Unit Villa**
-- 🎓 Studying Full Stack Development at Lambton College, Toronto
-- 🧑‍🏫 Active in communities like TinkerHub, Pygrammers & MLSA
-- 🌱 Learning SwiftUI, LangChain, and some AI automation tools for fun
-- 💬 Always down to chat tech, side projects, or just cool ideas
-
-> I'm all about clean code, real-world impact, and keeping things human.
+- 🛠 Product Engineer @ Unit Villa (Remote)
+- 🎓 Postgrad student in Full Stack Software Development @ Lambton College
+- 🧑‍🤝‍🧑 Previously Backend Developer @ Agua India, Cynbus
+- 🌍 Active in tech communities like TinkerHub, Pygrammers & MLSA
+- 🧪 Exploring AI automation, LangChain, and geospatial systems
 
 ---
 
-### 🧰 My Toolbelt
+### 🌟 Highlights
 
-**Languages:**  
+- 2+ years of experience building production-grade apps across logistics, commerce, and utilities
+- Scalable backend systems with Django, FastAPI, Node.js, and microservices architecture
+- Real-world AI integrations using OpenAI API and automation via N8N
+- Full-stack applications across web and mobile with React, Next.js, React Native, and SwiftUI
+- Contributor and community lead in education-focused tech initiatives
+
+---
+
+### 🔧 Toolbox
+
+**Languages**  
 Python · JavaScript · TypeScript · Swift
 
-**Frameworks & Tools:**  
-Django · Node.js · React · Next.js · Django REST · Tailwind CSS · Bootstrap
+**Backend & APIs**  
+FastAPI · Django · Node.js · REST APIs · JWT · Microservices
 
-**Mobile & UI:**  
-React Native · SwiftUI · UIKit · HTML/CSS · jQuery (yeah, still useful sometimes)
+**Frontend & Mobile**  
+React.js · Next.js · React Native · Tailwind CSS · SwiftUI · Bootstrap
 
-**Cloud & DevOps:**  
-AWS · DigitalOcean · Vercel · Docker · Netlify · CI/CD · Nginx
+**Databases**  
+PostgreSQL · MongoDB · PostGIS · MySQL · SQLite
 
-**Databases:**  
-PostgreSQL · PostGIS · MongoDB · Firebase · MySQL
+**Cloud & DevOps**  
+AWS · Vercel · Docker · DigitalOcean · Git · GitHub · CI/CD
 
-**Stuff I love using:**  
-Postman · Figma · Notion · N8N · GitHub · Slack · Trello
+**AI & Automation**  
+OpenAI API · LangChain · N8N · Prompt Engineering
 
----
-
-### 🚀 Stuff I’ve Built
-
-Here are a few projects I’ve worked on that I’m kinda proud of:
-
-- **[Agua India](https://apps.apple.com/in/app/agua-india/id1503679371)** – Water delivery app with real-time tracking, vendor dashboards, and 20K+ users  
-- **[Shoapp](https://apps.apple.com/ca/app/sho-app-shopping-app/id6450304129)** – Think mini Amazon, but for your local shops  
-- **[Food For All](https://github.com/AkshayBenny/food-surplus-detection)** – Hackathon project that connects food donors with NGOs (no food wasted!)  
-- **[Web Builder](#)** – Shopify alternative for small Kerala businesses with custom domain support
-
-More projects on [shaheem.dev](https://shaheem.dev/projects) 🔗
+**Tools I Use Often**  
+Postman · Figma · Notion · Slack · Trello · Chrome DevTools
 
 ---
 
-### 📈 My GitHub Vibe
+### 🚀 Featured Projects
 
-![](https://github-readme-stats.vercel.app/api?username=shaheem-pp&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shaheem-pp&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaheem-pp&theme=dark&hide_border=false&layout=compact)
+#### 🌊 [Agua India App](https://apps.apple.com/in/app/agua-india/id1503679371)
+> Water delivery app with 20K+ users, vendor analytics dashboards, and optimized delivery routing  
+Stack: Django · PostGIS · PostgreSQL · Bootstrap · Google Maps API
+
+#### 🛍 [Shoapp](https://apps.apple.com/ca/app/sho-app-shopping-app/id6450304129)
+> Local commerce platform connecting users to nearby stores with real-time inventory and delivery  
+Stack: Django · PostgreSQL · jQuery · Bootstrap
+
+#### 🥣 [Food For All](https://github.com/AkshayBenny/food-surplus-detection)
+> Hackathon-winning platform to reduce food waste by matching donors and NGOs  
+Stack: Django · Next.js · REST API · PostGIS
+
+#### 🧰 [Web Builder](#)
+> Shopify alternative for Kerala businesses with custom domains, themes, and SEO analytics  
+Stack: Django · PostgreSQL · AJAX · Bootstrap
+
+🔗 [More projects →](https://shaheem.dev/projects)
 
 ---
 
-### 🏆 Random Wins
+### 💡 What I Value
 
-![](https://github-profile-trophy.vercel.app/?username=shaheem-pp&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
+- **Clean, Modular Code** — Built to scale, handed off easily  
+- **User-Centered Design** — Solving real problems, not building for show  
+- **Problem-First Thinking** — Systems shaped by the challenges they solve  
+- **Team-Oriented Development** — Clear communication, strong delivery  
+- **Community Contribution** — Always giving back through events, mentoring  
+- **Continuous Learning** — Staying sharp, staying curious
 
 ---
 
-### 💭 Dev Quote of the Day
+### 📊 GitHub Snapshot
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
-### 🧑‍💻 Top Repos I’ve Contributed To
-
-![](https://github-contributor-stats.vercel.app/api?username=shaheem-pp&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaheem-pp&theme=dark&include_all_commits=true&count_private=true&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheem-pp&layout=compact&theme=dark&hide_border=true" height="160"/>
+</p>
 
 ---
 
 ### 🤝 Let’s Connect
 
-Whether you're building something cool, looking to collaborate, or just vibing in the dev world — feel free to hit me up.
+💬 Reach out if you want to collaborate, brainstorm, or just geek out about something cool.
 
-📫 [mail@shaheem.dev](mailto:mail@shaheem.dev)  
-🌐 [shaheem.dev](https://shaheem.dev) | [LinkedIn](https://www.linkedin.com/in/shaheem-pp)
+📫 mail@shaheem.dev  
+🌐 [shaheem.dev](https://shaheem.dev)  
+💼 [LinkedIn](https://www.linkedin.com/in/shaheem-pp)
 
 ---
 
 <p align="center">
-  Built with ❤️ from Toronto | Powered by ☕, open tabs, and terminal windows
+  Built from Toronto 🇨🇦 | With ☕, clean code, and community spirit
 </p>
