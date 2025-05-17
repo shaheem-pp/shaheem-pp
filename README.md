@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shaheem 👋</h1>
-<h3 align="center">Backend-Focused Full Stack Developer · Python · FastAPI · React · AI · Cloud · Based in Toronto 🇨🇦</h3>
+<h3 align="center">Product Engineer · AI-Integrated Systems · Geospatial · FastAPI · React · Cloud · Based in Toronto 🇨🇦</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shaheem-pp/"><img src="https://img.shields.io/badge/LinkedIn-Shaheem%20PP-blue?style=flat-square"></a>
@@ -11,13 +11,15 @@
 
 ### 👋 About Me
 
-I’m Shaheem — a backend-leaning full stack developer with a knack for building systems that are scalable, maintainable, and actually useful.
+I’m Shaheem — a Product Engineer who builds thoughtful, scalable, and user-centred software across web and mobile platforms.
 
-- 🛠 Product Engineer @ Unit Villa (Remote)
-- 🎓 Postgrad student in Full Stack Software Development @ Lambton College
-- 🧑‍🤝‍🧑 Previously Backend Developer @ Agua India, Cynbus
-- 🌍 Active in tech communities like TinkerHub, Pygrammers & MLSA
-- 🧪 Exploring AI automation, LangChain, and geospatial systems
+- 🛠 Currently building full-stack products at **Unit Villa**
+- 🎓 Pursuing Postgrad in Full Stack Software Development @ Lambton College, Toronto
+- 💡 Previously developed core systems for **Agua India** and **Cynbus**, including platforms used by 20K+ customers
+- 🌍 Active contributor in developer communities like **TinkerHub**, **Pygrammers**, and **Microsoft Learn Student Ambassadors**
+- 🤖 Passionate about integrating AI into real-world workflows using **LangChain**, **N8N**, and **OpenAI**
+- 📍 Experienced with **PostGIS** for geospatial features like route optimization and location-aware services
+- 📱 Exploring native mobile UX through **SwiftUI** and React Native
 
 ---
 
@@ -59,20 +61,24 @@ Postman · Figma · Notion · Slack · Trello · Chrome DevTools
 ### 🚀 Featured Projects
 
 #### 🌊 [Agua India App](https://apps.apple.com/in/app/agua-india/id1503679371)
-> Water delivery app with 20K+ users, vendor analytics dashboards, and optimized delivery routing  
-Stack: Django · PostGIS · PostgreSQL · Bootstrap · Google Maps API
+> Scalable water delivery app serving 20K+ users across 4 cities.  
+> Built real-time tracking, optimized delivery routes (20% faster), and vendor dashboards that increased sales productivity by 40%.  
+**Stack:** Django · PostGIS · PostgreSQL · Bootstrap · Google Maps API
 
 #### 🛍 [Shoapp](https://apps.apple.com/ca/app/sho-app-shopping-app/id6450304129)
-> Local commerce platform connecting users to nearby stores with real-time inventory and delivery  
-Stack: Django · PostgreSQL · jQuery · Bootstrap
+> Local e-commerce platform connecting users to nearby stores.  
+> Enabled price comparisons, real-time inventory sync, and seamless doorstep delivery. Increased order conversions for vendors by 30%.  
+**Stack:** Django · PostgreSQL · jQuery · Bootstrap
 
 #### 🥣 [Food For All](https://github.com/AkshayBenny/food-surplus-detection)
-> Hackathon-winning platform to reduce food waste by matching donors and NGOs  
-Stack: Django · Next.js · REST API · PostGIS
+> Hackathon-winning platform to minimize food waste by linking donors and NGOs.  
+> Used geolocation to match donations within 5–10 km radius. Replaced chaotic WhatsApp groups with structured logistics.  
+**Stack:** Django · Next.js · REST API · PostGIS
 
-#### 🧰 [Web Builder](#)
-> Shopify alternative for Kerala businesses with custom domains, themes, and SEO analytics  
-Stack: Django · PostgreSQL · AJAX · Bootstrap
+#### 🧰 Web Builder
+> Shopify alternative tailored for small businesses in Kerala.  
+> Supported custom domains, real-time inventory, payment gateways, and SEO insights — launched 25+ local stores affordably.  
+**Stack:** Django · PostgreSQL · AJAX · Bootstrap
 
 🔗 [More projects →](https://shaheem.dev/projects)
 
@@ -80,20 +86,25 @@ Stack: Django · PostgreSQL · AJAX · Bootstrap
 
 ### 💡 What I Value
 
-- **Clean, Modular Code** — Built to scale, handed off easily  
-- **User-Centered Design** — Solving real problems, not building for show  
-- **Problem-First Thinking** — Systems shaped by the challenges they solve  
-- **Team-Oriented Development** — Clear communication, strong delivery  
-- **Community Contribution** — Always giving back through events, mentoring  
-- **Continuous Learning** — Staying sharp, staying curious
+- **Product Thinking** — Building with real users and outcomes in mind  
+- **Clean, Modular Code** — Built to scale and evolve  
+- **Clear Communication** — Across design, engineering, and business  
+- **Problem-First Approach** — Prioritizing real-world impact  
+- **Community Contribution** — Giving back through events and mentorship  
+- **Continuous Learning** — Always staying sharp and curious
 
 ---
 
 ### 📊 GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaheem-pp&theme=dark&include_all_commits=true&count_private=true&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheem-pp&layout=compact&theme=dark&hide_border=true" height="160"/>
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=shaheem-pp&theme=dark&include_all_commits=true&count_private=true&hide_border=true" height="160" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheem-pp&layout=compact&theme=dark&hide_border=true" height="160"/></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com?user=shaheem-pp&theme=dark&hide_border=true" height="160"/></td>
+    </tr>
+  </table>
 </p>
 
 ---
