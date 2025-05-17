@@ -98,14 +98,14 @@ Postman · Figma · Notion · Slack · Trello · Chrome DevTools
 ### 📊 GitHub Snapshot
 
 <p align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=shaheem-pp&theme=dark&include_all_commits=true&count_private=true&hide_border=true" height="160" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheem-pp&layout=compact&theme=dark&hide_border=true" height="160"/></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com?user=shaheem-pp&theme=dark&hide_border=true" height="160"/></td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=shaheem-pp&theme=dark&include_all_commits=true&count_private=true&hide_border=true" height="160" />
 </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheem-pp&layout=compact&theme=dark&hide_border=true" height="160"/>
+  </p>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=shaheem-pp&theme=dark&hide_border=true" height="160"/>
+  </p>
 
 ---
 
