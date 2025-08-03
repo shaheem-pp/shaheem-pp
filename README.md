@@ -1,81 +1,130 @@
-<h1 align="center">Hi, I'm Shaheem 👋</h1>
-<h3 align="center">Product Engineer · AI Systems · Geospatial · FastAPI · React · Cloud · Toronto 🇨🇦</h3>
+# Hi, I'm Shaheem 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shaheem-pp/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://shaheem.dev"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
-  <img src="https://komarev.com/ghpvc/?username=shaheem-pp&label=Profile%20views&color=0e75b6&style=flat" alt="shaheem-pp" />
-</p>
+> **Product Engineer | Building systems that power real products**
 
----
+📍 **Toronto, Canada** • 🎯 **Open to Full-Time Opportunities**
 
-### 👨‍💻 About Me
-I build thoughtful, scalable, and user-centered software across web and mobile platforms.
-
-- 🛠️ Currently building full-stack products at **Unit Villa**
-- 🎓 Pursuing Postgrad in Full Stack Development @ Lambton College
-- 💡 Previously built systems for **Agua India** (20K+ users) and **Cynbus**
-- 🌍 Active in **TinkerHub**, **Pygrammers**, and **Microsoft Learn Student Ambassadors**
-- 🤖 Integrating AI with **LangChain**, **N8N**, and **OpenAI**
-- 📍 **PostGIS** expert for geospatial solutions
-- 📱 Exploring **SwiftUI** & React Native for mobile
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-shaheem.dev-blue)](https://shaheem.dev) [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5)](https://www.linkedin.com/in/shaheem-pp/) [![Email](https://img.shields.io/badge/📧_Email-Available-red)](mailto:mail@shaheem.dev)
 
 ---
 
-### 🚀 Core Skills
-**Backend**  
-FastAPI · Django · Node.js · Microservices · REST APIs  
+## 👨‍💻 About Me
 
-**Frontend**  
-React · Next.js · Tailwind CSS · SwiftUI  
+- 🚀 **Product Engineer** with **2+ years** building apps for **20,000+ users**
+- 🎓 Currently studying **Full Stack Development** at **Lambton College**
+- 💼 Working at **Unit Villa** as Product Engineer
+- 🔧 **Expertise:** Backend systems • AI integration • Full-stack solutions
 
-**Data**  
-PostgreSQL · MongoDB · PostGIS · MySQL  
+**What I bring to the table:**
 
-**Cloud & DevOps**  
-AWS · Vercel · Docker · CI/CD  
-
-**AI & Automation**  
-OpenAI · LangChain · N8N · Prompt Engineering  
+- ✅ Experience with high-traffic applications (20K+ users)
+- ✅ Strong background in both web and mobile development
+- ✅ AI integration and automation experience
+- ✅ End-to-end product development skills
 
 ---
 
-### 🌟 Featured Projects
+## 💼 Work Experience
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| **[Grocify.ai](https://github.com/shaheem-pp/grocify-ai)**<br>WhatsApp AI assistant | Meal planning, grocery management, food waste reduction | Gemini AI, WhatsApp API, FastAPI | ![In Progress](https://img.shields.io/badge/In_Progress-blue) |
-| **[Agua India](https://apps.apple.com/in/app/agua-india/id1503679371)**<br>Water delivery app | Served 20K+ users with real-time tracking and route optimization | PostGIS, Django, Google Maps API | ![Completed](https://img.shields.io/badge/Completed-brightgreen) |
-| **[Shoapp](https://apps.apple.com/ca/app/sho-app-shopping-app/id6450304129)**<br>Local e-commerce platform | Connects users to nearby stores with price comparisons | Django, PostgreSQL, jQuery | ![Completed](https://img.shields.io/badge/Completed-brightgreen) |
-| **[Food For All](https://github.com/AkshayBenny/food-surplus-detection)**<br>Food waste reduction | Hackathon-winning donor-NGO matching platform | Django, Next.js, PostGIS | ![Completed](https://img.shields.io/badge/Completed-brightgreen) |
-| **[Web Builder](https://shaheem.dev/projects)**<br>Shopify alternative | E-commerce solution for Kerala small businesses | Django, PostgreSQL, Payment APIs | ![Completed](https://img.shields.io/badge/Completed-brightgreen) |
-| **[Carro App](https://apps.apple.com/in/app/carro-your-car-app/id6475821919)**<br>Car care platform | Wash booking, valuation services, and service comparisons | PostGIS, Django, Bootstrap | ![Completed](https://img.shields.io/badge/Completed-brightgreen) |
+### 🚀 **Product Engineer** | _Unit Villa_ | _May 2024 - Present_
 
-> **[View all projects →](https://shaheem.dev/projects)**
+- ➤ Building web and mobile apps with React Native & Next.js
+- ➤ Creating backend systems and APIs for data handling
+- ➤ Integrating AI features to enhance user experience
 
----
+### 💧 **Backend Developer** | _Agua India_ | _2023 - 2024_
 
-### 📈 GitHub Stats
+- ➤ Built systems serving **20,000+ users** across 4 cities
+- ➤ **Results:** 20% faster delivery, 25% better satisfaction
+- ➤ Created vendor dashboard → **40% sales productivity boost**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaheem-pp&show_icons=true&theme=radical&hide_border=true" alt="Stats">
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shaheem-pp&theme=radical&hide_border=true" alt="Streak">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheem-pp&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
-</p>
+### ⚙️ **Junior Backend Developer** | _Cynbus_ | _2022 - 2023_
+
+- ➤ Developed APIs for logistics and e-commerce platforms
+- ➤ Deployed on AWS and DigitalOcean with automated pipelines
+- ➤ Improved engagement for **13,000+ users** in Kerala
 
 ---
 
-### 📫 Let's Connect
-<p align="center">
-  <a href="mailto:mail@shaheem.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://shaheem.dev"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/shaheem-pp/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+## 🛠️ Technical Skills
 
-<p align="center">
-  Built from Toronto 🇨🇦 | With ☕, clean code, and community spirit
-</p>
+| **Category**        | **Technologies**                         |
+| ------------------- | ---------------------------------------- |
+| **Languages**       | Python • JavaScript • TypeScript • Swift |
+| **Backend**         | FastAPI • Django • Node.js • REST APIs   |
+| **Frontend**        | React • Next.js • React Native • SwiftUI |
+| **Databases**       | PostgreSQL • MongoDB                     |
+| **Cloud & DevOps**  | AWS • Docker • CI/CD                     |
+| **AI & Automation** | OpenAI • LangChain • N8N                 |
+
+---
+
+## 🚀 Featured Projects
+
+| Project                                                                          | Description                                | Tech Stack           | Status            |
+| -------------------------------------------------------------------------------- | ------------------------------------------ | -------------------- | ----------------- |
+| 🤖 **[Grocify.ai](https://github.com/shaheem-pp/grocify-ai)**                    | AI WhatsApp assistant for meal planning    | Gemini AI, FastAPI   | 🚧 In Development |
+| 💧 **[Agua India](https://apps.apple.com/in/app/agua-india/id1503679371)**       | Water delivery platform (20K+ users)       | Django, PostGIS, AWS | ✅ Live           |
+| 🛒 **[Shoapp](https://apps.apple.com/ca/app/sho-app-shopping-app/id6450304129)** | Local shopping with price comparison       | Django, PostgreSQL   | ✅ Live           |
+| 🍽️ **[Food For All](https://github.com/AkshayBenny/food-surplus-detection)**     | 🏆 Hackathon winner - Food waste reduction | Django, Next.js, AI  | ✅ Completed      |
+
+> **[🔗 View all projects →](https://shaheem.dev/projects)**
+
+---
+
+## 🎓 Education & Achievements
+
+### **Education**
+
+- 📚 **Post Graduate Diploma** - Full Stack Development | _Lambton College_ (2024-Present) • **GPA: 3.35**
+- 🎓 **Bachelor's Degree** - Computer Applications | _Safi Institute_ (2019-2022)
+
+### **Leadership & Recognition**
+
+- 🏆 **Microsoft Learn Student Ambassador** → Hosted workshops & hackathons
+- 👥 **Founder, TinkerHub SIAS** → Campus tech community (100+ students mentored)
+- 📱 **Social Media Manager, Pygrammers** → 5,000+ member Python community
+- 🏛️ **Student Council Member** → Led workshops and engagement activities
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaheem-pp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shaheem-pp&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaheem-pp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+> **I'm actively seeking opportunities to build impactful products and systems!**
+
+**Quick Facts:**
+
+- ✅ Available for full-time roles
+- ✅ Open to relocation
+- ✅ 2+ years real-world experience
+- ✅ Strong technical + business skills
+
+**Contact Me:**
+
+- 📧 **Email:** [mail@shaheem.dev](mailto:mail@shaheem.dev)
+- 🌐 **Portfolio:** [shaheem.dev](https://shaheem.dev)
+- 💼 **LinkedIn:** [linkedin.com/in/shaheem-pp](https://www.linkedin.com/in/shaheem-pp/)
+
+---
+
+<div align="center">
+
+### _"I build systems that power real products"_
+
+**Ready to contribute from day one** 🚀
+
+</div>
