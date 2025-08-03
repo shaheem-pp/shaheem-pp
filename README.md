@@ -14,7 +14,7 @@
 
 🚀 **Product Engineer** with **2+ years** building apps for **20,000+ users**  
 🎓 Currently studying **Full Stack Development** at **Lambton College**  
-💼 Working at **Unit Villa** as Product Engineer  
+💼 Freelancing at **Unit Villa** as Product Engineer  
 🔧 **Expertise:** Backend systems • AI integration • Full-stack solutions
 
 </div>
