@@ -2,7 +2,7 @@
 
 > **Product Engineer | Building systems that power real products**
 
-📍 **Toronto, Canada** • 🎯 **Open to Full-Time Opportunities**
+📍 **Toronto, Canada** • 🎯 **Building scalable systems that drive real impact. Open to meaningful opportunities.**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-shaheem.dev-blue)](https://shaheem.dev) [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5)](https://www.linkedin.com/in/shaheem-pp/) [![Email](https://img.shields.io/badge/📧_Email-Available-red)](mailto:mail@shaheem.dev)
 
@@ -10,17 +10,25 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 **Product Engineer** with **2+ years** building apps for **20,000+ users**
-- 🎓 Currently studying **Full Stack Development** at **Lambton College**
-- 💼 Working at **Unit Villa** as Product Engineer
-- 🔧 **Expertise:** Backend systems • AI integration • Full-stack solutions
+<div>
+
+🚀 **Product Engineer** with **2+ years** building apps for **20,000+ users**  
+🎓 Currently studying **Full Stack Development** at **Lambton College**  
+💼 Working at **Unit Villa** as Product Engineer  
+🔧 **Expertise:** Backend systems • AI integration • Full-stack solutions
+
+</div>
 
 **What I bring to the table:**
 
-- ✅ Experience with high-traffic applications (20K+ users)
-- ✅ Strong background in both web and mobile development
-- ✅ AI integration and automation experience
-- ✅ End-to-end product development skills
+<div>
+
+✅ Experience with high-traffic applications (20K+ users)  
+✅ Strong background in both web and mobile development  
+✅ AI integration and automation experience  
+✅ End-to-end product development skills
+
+</div>
 
 ---
 
@@ -28,21 +36,33 @@
 
 ### 🚀 **Product Engineer** | _Unit Villa_ | _May 2024 - Present_
 
-- ➤ Building web and mobile apps with React Native & Next.js
-- ➤ Creating backend systems and APIs for data handling
-- ➤ Integrating AI features to enhance user experience
+<div>
+
+➤ Building web and mobile apps with React Native & Next.js  
+➤ Creating backend systems and APIs for data handling  
+➤ Integrating AI features to enhance user experience
+
+</div>
 
 ### 💧 **Backend Developer** | _Agua India_ | _2023 - 2024_
 
-- ➤ Built systems serving **20,000+ users** across 4 cities
-- ➤ **Results:** 20% faster delivery, 25% better satisfaction
-- ➤ Created vendor dashboard → **40% sales productivity boost**
+<div>
+
+➤ Built systems serving **20,000+ users** across 4 cities  
+➤ **Results:** 20% faster delivery, 25% better satisfaction  
+➤ Created vendor dashboard → **40% sales productivity boost**
+
+</div>
 
 ### ⚙️ **Junior Backend Developer** | _Cynbus_ | _2022 - 2023_
 
-- ➤ Developed APIs for logistics and e-commerce platforms
-- ➤ Deployed on AWS and DigitalOcean with automated pipelines
-- ➤ Improved engagement for **13,000+ users** in Kerala
+<div>
+
+➤ Developed APIs for logistics and e-commerce platforms  
+➤ Deployed on AWS and DigitalOcean with automated pipelines  
+➤ Improved engagement for **13,000+ users** in Kerala
+
+</div>
 
 ---
 
@@ -81,10 +101,14 @@
 
 ### **Leadership & Recognition**
 
-- 🏆 **Microsoft Learn Student Ambassador** → Hosted workshops & hackathons
-- 👥 **Founder, TinkerHub SIAS** → Campus tech community (100+ students mentored)
-- 📱 **Social Media Manager, Pygrammers** → 5,000+ member Python community
-- 🏛️ **Student Council Member** → Led workshops and engagement activities
+<div>
+
+🏆 **Microsoft Learn Student Ambassador** → Hosted workshops & hackathons  
+👥 **Founder, TinkerHub SIAS** → Campus tech community (100+ students mentored)  
+📱 **Social Media Manager, Pygrammers** → 5,000+ member Python community  
+🏛️ **Student Council Member** → Led workshops and engagement activities
+
+</div>
 
 ---
 
@@ -104,14 +128,18 @@
 
 ## 🤝 Let's Connect
 
-> **I'm actively seeking opportunities to build impactful products and systems!**
+> **If you're building something impactful and need someone who can take ideas from prototype to production, let's talk.**
 
 **Quick Facts:**
 
-- ✅ Available for full-time roles
-- ✅ Open to relocation
-- ✅ 2+ years real-world experience
-- ✅ Strong technical + business skills
+<div>
+
+✅ Building scalable, user-centric systems  
+✅ Open to relocation  
+✅ 2+ years real-world experience  
+✅ Strong technical + business skills
+
+</div>
 
 **Contact Me:**
 
