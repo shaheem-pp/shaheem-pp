@@ -116,7 +116,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaheem-pp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaheem-pp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&&rank_icon=github)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shaheem-pp&theme=tokyonight&hide_border=true)
 
