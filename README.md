@@ -120,7 +120,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shaheem-pp&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaheem-pp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaheem-pp&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=scss,java,css,html)
 
 </div>
 
