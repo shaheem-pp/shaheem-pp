@@ -70,7 +70,7 @@ Product Engineer with **2+ years** building applications for **20,000+ users**. 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaheem-pp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&line_height=21)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaheem-pp&theme=tokyonight&hide_border=true&layout=compact&langs_count=6)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shaheem-pp&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=shaheem-pp&theme=tokyonight&hide_border=true)
 
 ![Metrics](https://github.com/shaheem-pp/shaheem-pp/blob/main/github-metrics.svg)
 
