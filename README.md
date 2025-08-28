@@ -72,6 +72,4 @@ Product Engineer with **2+ years** building applications for **20,000+ users**. 
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=shaheem-pp&theme=tokyonight&hide_border=true)
 
-![Metrics](https://github.com/shaheem-pp/shaheem-pp/blob/main/github-metrics.svg)
-
 </div>
