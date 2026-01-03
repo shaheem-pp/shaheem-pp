@@ -14,16 +14,17 @@
 
 ## 🚀 About
 
-Product Engineer with **2+ years** building applications for **20,000+ users**. Currently at **Unit Villa** and studying Full Stack Development at **Lambton College**.
+Product Engineer with **2+ years** building applications for **20,000+ users**.
 
 **Core Focus:** Backend systems, AI integration, scalable product development
 
 ## 💼 Experience
 
 ```
-2024 - Present  •  Product Engineer      •  Unit Villa
-2023 - 2024     •  Backend Developer     •  Agua India (20K+ users)
-2022 - 2023     •  Junior Backend Dev    •  Cynbus
+2025 - Present  •  Junior Developer            •  Paayatech
+2024 - Present  •  Product Engineer            •  Unit Villa
+2023 - 2024     •  Backend Developer           •  Agua India
+2022 - 2023     •  Junior Backend Developer    •  Cynbus
 ```
 
 ## 🛠️ Tech Stack
