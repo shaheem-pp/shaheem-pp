@@ -84,7 +84,7 @@ shaheem = {
 
 ```
 Sept 2025 – Now   Software Developer     PaayaTech Inc.   Mississauga, ON
-May  2025 – Now   Product Engineer       Unit Villa       Vancouver, BC    (Remote)
+May  2025 – Dec 2025   Product Engineer       Unit Villa       Vancouver, BC    (Remote)
 Sept 2023 – 2024  Backend Developer      Agua India       Kochi, India
 Aug  2022 – 2023  Jr. Backend Developer  Cynbus           Kochi, India
 ```
