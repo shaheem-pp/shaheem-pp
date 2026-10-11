@@ -1,62 +1,66 @@
 <a href="https://shaheem.dev">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-    <img alt="Hey, I'm shaheem. Product Engineer · Toronto, Canada" src="assets/header-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaheem-pp/shaheem-pp/output/hero-dark.svg">
+    <img alt="Shaheem. Product engineer. I build the backends products run on, and I care how they feel on the other end." src="https://raw.githubusercontent.com/shaheem-pp/shaheem-pp/output/hero-light.svg" width="100%">
   </picture>
 </a>
 
-<br/>
-
-I build backend systems that ship, and I keep them running after launch. I pick the right tool for the problem, not the trendy one: Python while a product is still finding its shape, .NET when the workflow has to hold up inside an enterprise.
-
-→ 3+ years building and maintaining production backend systems<br/>
-→ Systems supporting 20,000+ users across four cities<br/>
-→ Cut delivery processing time by 20% in live operations<br/>
-→ Raised vendor sales productivity by 40% with real-time tooling
-
-**Now:** Software Developer at PaayaTech, building document pipelines for legal teams.<br/>
-**Before:** Product engineering at Unit Villa · Backend at Agua India · Backend at Cynbus.<br/>
-**On the side:** small native macOS apps in Swift.
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/ticker-dark.svg">
-  <img alt="20K+ Users · Production Systems · Python & .NET · 99% Uptime · MVPs in Production" src="assets/ticker-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaheem-pp/shaheem-pp/output/metrics-dark.svg">
+  <img alt="20K+ users on a delivery platform I built · 99% uptime through production support · 20% faster delivery processing · 3+ yrs shipping production backends" src="https://raw.githubusercontent.com/shaheem-pp/shaheem-pp/output/metrics-light.svg" width="100%">
 </picture>
 
-## Selected work
+&nbsp;
 
-| Project | What it does | Built with |
-| :-- | :-- | :-- |
-| **[Tifflo](https://tifflo.shaheem.dev)** | WhatsApp-first operations for tiffin kitchens. Replaces the WhatsApp-and-Excel juggle with a traceable meal ledger. | `Django` `PostgreSQL` `WhatsApp API` |
-| **Agua India**<br/><sub>[App Store](https://apps.apple.com/in/app/agua-india/id1503679371) · [Play Store](https://play.google.com/store/apps/details?id=appu.agua)</sub> | Water delivery for 20,000+ users across four cities, with delivery processing 20% faster in live operations. | `Django` `PostGIS` `Google Maps` |
-| **[Food For All](https://github.com/AkshayBenny/food-surplus-detection)** | Matches surplus food with nearby NGOs by location, in real time. | `Django` `Next.js` `PostGIS` |
+<a href="https://shaheem.dev/#work">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaheem-pp/shaheem-pp/output/work-dark.svg">
+    <img alt="Things I've shipped: Tifflo, Agua India, Grocify.ai and Food For All, each with how it works and the key decision behind it." src="https://raw.githubusercontent.com/shaheem-pp/shaheem-pp/output/work-light.svg" width="100%">
+  </picture>
+</a>
 
-## How I work
+<p align="center"><sub>
+  <a href="https://tifflo.shaheem.dev/">Tifflo</a> ·
+  Agua India on <a href="https://apps.apple.com/in/app/agua-india/id1503679371">App Store</a> / <a href="https://play.google.com/store/apps/details?id=appu.agua">Play Store</a> ·
+  <a href="https://github.com/AkshayBenny/food-surplus-detection">Food For All</a>
+</sub></p>
 
-- **Constraints are features.** Deadline, team size and budget shape the design before any framework does.
-- **Prefer proven technology.** Boring stacks fail in ways you already know how to fix.
-- **Write for the next developer.** It's usually me, six months later.
-- **Make tradeoffs explicit.** Every shortcut gets written down, along with what it costs.
-
-## Stack
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cdjango%2Cfastapi%2Ccs%2Cdotnet%2Cts%2Cpostgres%2Cmysql%2Caws%2Cdocker%2Cgithubactions%2Cnextjs%2Cswift&theme=dark&perline=13">
-  <img alt="Python, Django, FastAPI, C#, .NET, TypeScript, PostgreSQL, MySQL, AWS, Docker, GitHub Actions, Next.js, Swift" src="https://skillicons.dev/icons?i=python,django,fastapi,cs,dotnet,ts,postgres,mysql,aws,docker,githubactions,nextjs,swift&theme=light&perline=13">
-</picture>
-
-## Activity
+&nbsp;
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaheem-pp/shaheem-pp/output/snake-dark.svg">
-  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/shaheem-pp/shaheem-pp/output/snake-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaheem-pp/shaheem-pp/output/experience-dark.svg">
+  <img alt="Where I've worked: Junior Backend Developer at Cynbus, Backend Developer at Agua India, Product Engineer at Unit Villa, and now Software Developer at PaayaTech." src="https://raw.githubusercontent.com/shaheem-pp/shaheem-pp/output/experience-light.svg" width="100%">
 </picture>
 
-<br/>
+&nbsp;
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaheem-pp/shaheem-pp/output/stack-dark.svg">
+  <img alt="Right tool for the job: Python (Django, FastAPI), .NET (ASP.NET Core, SQL Server), Mobile (Jetpack Compose, SwiftUI), Web and data (React, Next.js, PostgreSQL)." src="https://raw.githubusercontent.com/shaheem-pp/shaheem-pp/output/stack-light.svg" width="100%">
+</picture>
+
+&nbsp;
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaheem-pp/shaheem-pp/output/activity-dark.svg">
+  <img alt="My recent public GitHub activity, written as a server access log, with a strip of active days over the last 90 days." src="https://raw.githubusercontent.com/shaheem-pp/shaheem-pp/output/activity-light.svg" width="100%">
+</picture>
+
+&nbsp;
+
+<a href="mailto:mail@shaheem.dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaheem-pp/shaheem-pp/output/contact-dark.svg">
+    <img alt="Need a backend your team can trust? mail@shaheem.dev" src="https://raw.githubusercontent.com/shaheem-pp/shaheem-pp/output/contact-light.svg" width="100%">
+  </picture>
+</a>
 
 <p align="center">
   <a href="https://shaheem.dev">shaheem.dev</a> ·
-  <a href="mailto:mail@shaheem.dev">mail@shaheem.dev</a> ·
-  <a href="https://www.linkedin.com/in/shaheem-pp/">LinkedIn</a> ·
-  <a href="https://twitter.com/the_codeholic">X</a>
+  <a href="https://linkedin.com/in/shaheem-pp">LinkedIn</a> ·
+  <a href="https://x.com/the_codeholic">X</a>
 </p>
+
+<p align="center"><sub>
+  This page is drawn from <a href="https://www.shaheem.dev/api/me.json">shaheem.dev/api/me.json</a> every 6 hours by <a href="scripts/render.py">scripts/render.py</a>.
+</sub></p>
